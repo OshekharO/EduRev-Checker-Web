@@ -1,4 +1,4 @@
-**EduRev Checker**
+# EduRev Checker
 
 A web-based EduRev account checker.
 
